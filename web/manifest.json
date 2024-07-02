@@ -1,6 +1,6 @@
 {
-    "name": "invideo",
-    "short_name": "invideo",
+    "name": "invidio",
+    "short_name": "invidio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
