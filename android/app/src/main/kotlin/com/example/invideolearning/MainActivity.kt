@@ -1,4 +1,4 @@
-package com.example.invidio
+package com.example.invideolearning
 
 import io.flutter.embedding.android.FlutterActivity
 
